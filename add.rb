@@ -2,7 +2,6 @@ puts 4+3
 puts 3-7
 puts 8*2
 puts 7/4
-print 4+3
 print "\n"
 print 6-4
 puts first_name="raji"
